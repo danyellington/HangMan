@@ -23,6 +23,7 @@ public class HangMan {
                 break;
             case "hard":
                 setAnswer(hard);
+                break;
             default:
                 setAnswer(easy);
         }
